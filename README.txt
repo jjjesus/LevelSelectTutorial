@@ -1,2 +1,2 @@
-Level Selection Tutorial
-This is a simple tutorial showing you how to create level selection screens in Corona SDK.  For this tutorial I use Corona's Storyboard API to change scenes.  You could also use the Director module if you prefer.
+LevelSelectTutorial
+Using one scene Lua file for multiple Corona storyboard scenes.  Also, illustrates selecting from a hierarchy of levels.
